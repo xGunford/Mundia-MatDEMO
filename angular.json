@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "matdemo"
+  "defaultProject": "matdemo",
+  "cli": {
+    "analytics": false
+  }
 }
